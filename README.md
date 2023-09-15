@@ -2,7 +2,7 @@
 
 I used components , guard , lazy loading , pipe , interceptor ..etc
 Features:
-*get products by categories , brand , hot offers , best sellers and new products and search by name
+*get products by categories , brand , hot offers and search by name
 *sign in , sign up
 *add and remove products from wishlist and shopping cart
 *make cash and online payment
