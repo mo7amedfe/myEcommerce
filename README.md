@@ -7,4 +7,4 @@ Features:
 *add and remove products from wishlist and shopping cart
 *make cash and online payment
 
-Src code Link:https:  //github.com/mo7amedfe/FreshCart-myEcommerce-SrcCode
+Src code Link:   https://github.com/mo7amedfe/FreshCart-myEcommerce-SrcCode
